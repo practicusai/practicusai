@@ -1,4 +1,6 @@
-[Practicus AI](https://practicus.ai/) is an end-to-end Data Science platform, which works like a spreadsheet. It works for both technical and non-technical users. 
+[Practicus AI](https://practicus.ai/) is a modern Data Science platform that combines ease of use with powerful features. 
+
+Under the user-friendly interface, we offer a scalable, flexible, and open-source data stack, helping our users solve their most complex data problems.
 
 You can **explore and analyze** large amounts of raw data and find unique insights and patterns. 
 
